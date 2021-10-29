@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1621284317 source:/home/abougabal/OS labs/matrix multplication/main.c
+	<stdio.h>
+	<pthread.h>
+	<unistd.h>
+	<string.h>
+	<stdlib.h>
+	<sys/time.h>
+
